@@ -33,19 +33,14 @@
 
 
    
-
-    //Passando Stories
-    //await page.click(".ow3u_");
-    //await page.click(".ow3u_");
-    
-
-    //Fechando Stories
-    //await page.click(".-jHC6");
-
     
     
-    //await page.click('button.sqdOP')
 
     //Encerrando Sessão
     await browser.close();
   })()
+
+  //Proximas Features
+  // - Passar stories
+  // - Enviar Resposta automatica para novos seguidores
+  // - Curtir fotos de uma # especifica
